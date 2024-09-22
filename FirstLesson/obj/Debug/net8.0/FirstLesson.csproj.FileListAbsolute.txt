@@ -1,0 +1,14 @@
+/Users/aysenuroruccu/Desktop/Pratikler/FirstLesson/bin/Debug/net8.0/FirstLesson
+/Users/aysenuroruccu/Desktop/Pratikler/FirstLesson/bin/Debug/net8.0/FirstLesson.deps.json
+/Users/aysenuroruccu/Desktop/Pratikler/FirstLesson/bin/Debug/net8.0/FirstLesson.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Pratikler/FirstLesson/bin/Debug/net8.0/FirstLesson.dll
+/Users/aysenuroruccu/Desktop/Pratikler/FirstLesson/bin/Debug/net8.0/FirstLesson.pdb
+/Users/aysenuroruccu/Desktop/Pratikler/FirstLesson/obj/Debug/net8.0/FirstLesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Pratikler/FirstLesson/obj/Debug/net8.0/FirstLesson.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Pratikler/FirstLesson/obj/Debug/net8.0/FirstLesson.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Pratikler/FirstLesson/obj/Debug/net8.0/FirstLesson.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Pratikler/FirstLesson/obj/Debug/net8.0/FirstLesson.dll
+/Users/aysenuroruccu/Desktop/Pratikler/FirstLesson/obj/Debug/net8.0/refint/FirstLesson.dll
+/Users/aysenuroruccu/Desktop/Pratikler/FirstLesson/obj/Debug/net8.0/FirstLesson.pdb
+/Users/aysenuroruccu/Desktop/Pratikler/FirstLesson/obj/Debug/net8.0/FirstLesson.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Pratikler/FirstLesson/obj/Debug/net8.0/ref/FirstLesson.dll
