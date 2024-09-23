@@ -7,7 +7,10 @@ string  surname = Console.ReadLine();
 Console.WriteLine("Patika Programına olma nedeninizi yazınız"); //The user was asked what they expected from the Patika
 string expectation = Console.ReadLine();
 
+
+//  print the result to the screen
 Console.WriteLine("Hoşgeldin: " + userName + surname);
 Console.WriteLine("Patika sana " + expectation + "sağlayacak");
+
 
 
