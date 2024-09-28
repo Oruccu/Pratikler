@@ -1,0 +1,14 @@
+/Users/aysenuroruccu/Desktop/Pratikler/For Loop/obj/Debug/net8.0/For Loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Pratikler/For Loop/obj/Debug/net8.0/For Loop.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Pratikler/For Loop/obj/Debug/net8.0/For Loop.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Pratikler/For Loop/obj/Debug/net8.0/For Loop.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Pratikler/For Loop/bin/Debug/net8.0/For Loop
+/Users/aysenuroruccu/Desktop/Pratikler/For Loop/bin/Debug/net8.0/For Loop.deps.json
+/Users/aysenuroruccu/Desktop/Pratikler/For Loop/bin/Debug/net8.0/For Loop.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Pratikler/For Loop/bin/Debug/net8.0/For Loop.dll
+/Users/aysenuroruccu/Desktop/Pratikler/For Loop/bin/Debug/net8.0/For Loop.pdb
+/Users/aysenuroruccu/Desktop/Pratikler/For Loop/obj/Debug/net8.0/For Loop.dll
+/Users/aysenuroruccu/Desktop/Pratikler/For Loop/obj/Debug/net8.0/refint/For Loop.dll
+/Users/aysenuroruccu/Desktop/Pratikler/For Loop/obj/Debug/net8.0/For Loop.pdb
+/Users/aysenuroruccu/Desktop/Pratikler/For Loop/obj/Debug/net8.0/For Loop.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Pratikler/For Loop/obj/Debug/net8.0/ref/For Loop.dll
